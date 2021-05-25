@@ -1,1 +1,1 @@
-# udacity-nlp-sentiment-analysis
+# Udacity NLP Nanodegree - Sentiment Analysis Exercise
